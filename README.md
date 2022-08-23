@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Garvita, my friends call me gravy
 - 👀 I’m interested in coding and learning about its origin 
-- 🌱 I’m currently learning c and python
+- 🌱 I’m currently learning c, java and python
 - 💞️ I’m looking to collaborate on coding projects to get more exposure
 - 📫 Contact me through garvitaggarwal025@gmail.com
 
